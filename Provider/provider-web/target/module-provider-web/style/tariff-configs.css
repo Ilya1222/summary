@@ -1,0 +1,116 @@
+.fre{
+    margin-top: 30px;
+    margin-left: 5px;
+    border: 2px solid #6A5748;
+    width: 300px;
+    height: 470px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color:#6A5748;
+    background: #C0C0C0;
+}
+
+.fre input [ type="text"]{
+    display: block;
+    border: 2px solid #6A5748;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    font-family: 'Roboto', sans-serif;
+    width: 130px;
+    height: 70px;
+}
+
+.fre  input[type="submit"] {
+
+    background: #f69a73;
+    border-bottom: 4px solid #d87d56;
+    color: white;
+}
+
+img{
+    margin-top: -8px;
+    margin-left: -8px;
+}
+body{
+    background:#FFFFF0 ;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 0;
+    text-align: center;
+}
+th {
+    background: #BCEBDD;
+    color: white;
+    text-shadow: 0 1px 1px #2D2020;
+    padding: 10px 20px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+th:first-child, td:first-child {
+    text-align: left;
+}
+th:first-child {
+    border-top-left-radius: 10px;
+}
+th:last-child {
+    border-top-right-radius: 10px;
+    border-right: none;
+}
+td {
+    padding: 10px 20px;
+    background: #F8E391;
+}
+tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+tr td:last-child {
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+    width: 100px;
+    height: 25px;
+    outline: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #AFCDE7 0%, #8FBC8F 51%, #C0C0C0 100%);
+
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    transition: .5s;
+}
+a:hover {background-position: right center;}
+
+.mess{
+    font-family: 'Montserrat', sans-serif;
+    color: #d87d56;
+}
+.back1 {
+    margin-left: 1100px;
+    margin-top: -500px;
+}
+.tb{
+    margin-left: 340px;
+    margin-top: -100px;
+}
+.messs{
+    font-family: 'Montserrat', sans-serif;
+    color: #d87d56;
+}

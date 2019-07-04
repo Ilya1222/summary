@@ -1,0 +1,97 @@
+body{
+    background:#FFFFF0 ;
+}
+
+img{
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+h4{
+    position: relative;
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    width: 180px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 8px;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: #D3D3D3;
+
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, sans-serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 0;
+    text-align: center;
+}
+th {
+    background: #5F9EA0;
+    color: white;
+    text-shadow: 0 1px 1px #2D2020;
+    padding: 10px 20px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+th:first-child, td:first-child {
+    text-align: left;
+}
+th:first-child {
+    border-top-left-radius: 10px;
+}
+th:last-child {
+    border-top-right-radius: 10px;
+    border-right: none;
+}
+td {
+    padding: 10px 20px;
+    background: #FFE4B5;
+}
+tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+tr td:last-child {
+    border-right: none;
+}
+.back4{
+    margin-top: 20px;
+}
+.back4 input[type="submit"] {
+
+    background: #E6E6FA;
+    border-bottom: 4px solid #B0C4DE;
+    color: #524f4e;
+}
+.take input[type="submit"] {
+
+    background: #E0FFFF;
+    border-bottom: 4px solid #66CDAA;
+    color: #524f4e;
+}
+.down input[type="submit"] {
+
+    background: #98FB98;
+    border-bottom: 4px solid #90EE90;
+    color: #524f4e;
+}
+
+.allTariff{
+    margin-left: 250px;
+    margin-top: -50px;
+}

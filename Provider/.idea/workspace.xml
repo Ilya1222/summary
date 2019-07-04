@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="provider-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb52f128-67e0-4fdf-a27f-3539f8c87b35" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/provider-web/target/" />
+    <ignored path="$PROJECT_DIR$/provider-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Provider$ua_nure_shevchenko_provider_in_provider_service.ic" NAME="ua.nure.shevchenko.provider in provider-service Coverage Results" MODIFIED="1553237372274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffConfirmControllerTest.ic" NAME="TariffConfirmControllerTest Coverage Results" MODIFIED="1553074423108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$AllTests__2_.ic" NAME="AllTests (2) Coverage Results" MODIFIED="1553157597602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$LoginControllerTest.ic" NAME="LoginControllerTest Coverage Results" MODIFIED="1553090401652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ua_nure_shevchenko_in_provider_service.ic" NAME="ua.nure.shevchenko in provider-service Coverage Results" MODIFIED="1553195728177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ReplenishControllerTest.ic" NAME="ReplenishControllerTest Coverage Results" MODIFIED="1553074352868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$RegistrationControllerTest.ic" NAME="RegistrationControllerTest Coverage Results" MODIFIED="1553091920638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$BlockClientsControllerTest.ic" NAME="BlockClientsControllerTest Coverage Results" MODIFIED="1553074152068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffsConfigControllerTest_doPost3.ic" NAME="TariffsConfigControllerTest.doPost3 Coverage Results" MODIFIED="1553082257450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ValidationTest.ic" NAME="ValidationTest Coverage Results" MODIFIED="1552988521082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffConfirmControllerTest_doPost2.ic" NAME="TariffConfirmControllerTest.doPost2 Coverage Results" MODIFIED="1553030785387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$BlockedUserControllerTest.ic" NAME="BlockedUserControllerTest Coverage Results" MODIFIED="1553074199240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$DownloadControllerTest_init.ic" NAME="DownloadControllerTest.init Coverage Results" MODIFIED="1552990068027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$LoginFilterTest_doFilter2.ic" NAME="LoginFilterTest.doFilter2 Coverage Results" MODIFIED="1553094767365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.filter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$AllTests.ic" NAME="AllTests Coverage Results" MODIFIED="1553157250436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ChangeLocaleControllerTest.ic" NAME="ChangeLocaleControllerTest Coverage Results" MODIFIED="1553074241683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffUpdateControllerTest.ic" NAME="TariffUpdateControllerTest Coverage Results" MODIFIED="1553074527602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$LoginFilterTest.ic" NAME="LoginFilterTest Coverage Results" MODIFIED="1553095118726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.filter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$RegistrationControllerTest_doPost.ic" NAME="RegistrationControllerTest.doPost Coverage Results" MODIFIED="1553091467223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$BlockClientsControllerTest_init.ic" NAME="BlockClientsControllerTest.init Coverage Results" MODIFIED="1552988827984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ValidatorTest.ic" NAME="ValidatorTest Coverage Results" MODIFIED="1552988557535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffsConfigControllerTest.ic" NAME="TariffsConfigControllerTest Coverage Results" MODIFIED="1553081690564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$RegistrationFilterTest.ic" NAME="RegistrationFilterTest Coverage Results" MODIFIED="1553095911862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.filter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffsConfigControllerTest_doPost4.ic" NAME="TariffsConfigControllerTest.doPost4 Coverage Results" MODIFIED="1553082400356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffComparatorTest.ic" NAME="TariffComparatorTest Coverage Results" MODIFIED="1552988422944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffDeleteControllerTest.ic" NAME="TariffDeleteControllerTest Coverage Results" MODIFIED="1553074487094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffListControllerTest.ic" NAME="TariffListControllerTest Coverage Results" MODIFIED="1553079961497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$RegistrationFilterTest_doFilter2.ic" NAME="RegistrationFilterTest.doFilter2 Coverage Results" MODIFIED="1553095808208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.filter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$AllTests__1_.ic" NAME="AllTests (1) Coverage Results" MODIFIED="1553157421542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.filter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$PasswordHashTest.ic" NAME="PasswordHashTest Coverage Results" MODIFIED="1552988483424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$ContextListenerTest.ic" NAME="ContextListenerTest Coverage Results" MODIFIED="1553157866655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.listener.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffConfirmControllerTest_doPost.ic" NAME="TariffConfirmControllerTest.doPost Coverage Results" MODIFIED="1553030509930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$DownloadControllerTest.ic" NAME="DownloadControllerTest Coverage Results" MODIFIED="1553093114893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$LogoutControllerTest.ic" NAME="LogoutControllerTest Coverage Results" MODIFIED="1553074286403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Provider$TariffConnectionControllerTest_doPost.ic" NAME="TariffConnectionControllerTest.doPost Coverage Results" MODIFIED="1553083427606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.shevchenko.provider.controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="b78f3fd1-6e97-4de3-9451-621f6cb55c8d" value="Blue" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/LogoutController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/BlockedUserControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/BlockClientsControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/LogoutControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/TariffDeleteController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffDeleteControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffsConfigControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffUpdateControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/RegistrationControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffListControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/filter/CharsetFilter.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/filter/CharsetFilterTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/TariffDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/ScoreDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlTariffDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/ServiceDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/UserDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlUserDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlTariffConnectionInfoDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/constans/Messages.java" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/error-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/ChangeLocaleController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/ReplenishController.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/TariffConfirmController.java" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/blocking-users-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/registration-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/replenish-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-configuration-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-connection-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-is-connected-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-list-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlScoreDao.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffConfirmControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/ReplenishControllerTest.java" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/resources/locale.properties" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/resources/locale_en.properties" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/admin-page.jsp" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/constans/Page.java" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/style/statistic.css" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/listener/ContextListener.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/entity/Statistic.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/service/InfoTariffService.java" />
+        <option value="$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/StatisticController.java" />
+        <option value="$PROJECT_DIR$/provider-web/src/main/webapp/jsp/statistic-page.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="idea-maven-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="idea-maven-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Provider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560199183503" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.nure.shevchenko.provider.filter" />
+      <recent name="ua.nure.shevchenko.provider.listener" />
+      <recent name="ua.nure.shevchenko.provider.service" />
+      <recent name="ua.nure.shevchenko.provider.controller" />
+      <recent name="ua.nure.shevchenko.provider.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\finalTask\Provider\provider-web\src\main\resources" />
+      <recent name="C:\Users\DELL\Desktop\finalTask\Provider\provider-web\src" />
+      <recent name="C:\Users\DELL\Desktop\finalTask\Provider\provider-web\src\main" />
+      <recent name="C:\Users\DELL\Desktop\finalTask\Provider\provider-web\src\main\webapp\jsp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\finalTask\Provider\provider-web\src\main\webapp\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.384">
+    <configuration name="TariffUpdateControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.shevchenko.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.shevchenko.provider.controller" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.shevchenko.provider.controller.TariffUpdateControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsConfigControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.shevchenko.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.shevchenko.provider.controller" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.shevchenko.provider.controller.TariffsConfigControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsConfigControllerTest.doGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.shevchenko.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.shevchenko.provider.controller" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.shevchenko.provider.controller.TariffsConfigControllerTest" />
+      <option name="METHOD_NAME" value="doGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsConfigControllerTest.doPost4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.shevchenko.provider.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.shevchenko.provider.controller" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.shevchenko.provider.controller.TariffsConfigControllerTest" />
+      <option name="METHOD_NAME" value="doPost4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.nure.shevchenko.provider in provider-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.shevchenko.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.shevchenko.provider" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Provider" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40211" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.384" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.384" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/provider_web_war_exploded/" />
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="provider-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/provider_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Provider_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40427" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="provider-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.384" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Provider_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40427" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ua.nure.shevchenko.provider in provider-service" />
+        <item itemvalue="JUnit.TariffUpdateControllerTest" />
+        <item itemvalue="JUnit.TariffsConfigControllerTest.doPost4" />
+        <item itemvalue="JUnit.TariffsConfigControllerTest" />
+        <item itemvalue="JUnit.TariffsConfigControllerTest.doGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb52f128-67e0-4fdf-a27f-3539f8c87b35" name="Default Changelist" comment="" />
+      <created>1551267549598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551267549598</updated>
+      <workItem from="1551267560735" duration="7097000" />
+      <workItem from="1551288366855" duration="376000" />
+      <workItem from="1551350088778" duration="4891000" />
+      <workItem from="1551358277214" duration="171000" />
+      <workItem from="1551359902026" duration="24916000" />
+      <workItem from="1551455797178" duration="10321000" />
+      <workItem from="1551473408744" duration="6912000" />
+      <workItem from="1551540640458" duration="12174000" />
+      <workItem from="1551609993788" duration="19299000" />
+      <workItem from="1551635829268" duration="8470000" />
+      <workItem from="1551651759436" duration="2714000" />
+      <workItem from="1551710912654" duration="5082000" />
+      <workItem from="1551720083825" duration="784000" />
+      <workItem from="1551803250038" duration="986000" />
+      <workItem from="1551809236263" duration="853000" />
+      <workItem from="1551869802227" duration="9439000" />
+      <workItem from="1551950727627" duration="15427000" />
+      <workItem from="1551985862171" duration="1588000" />
+      <workItem from="1551987640747" duration="5185000" />
+      <workItem from="1551994042444" duration="1077000" />
+      <workItem from="1552122754278" duration="638000" />
+      <workItem from="1552124116800" duration="9258000" />
+      <workItem from="1552139626716" duration="9442000" />
+      <workItem from="1552157581687" duration="6498000" />
+      <workItem from="1552211337574" duration="4921000" />
+      <workItem from="1552216552546" duration="3539000" />
+      <workItem from="1552294995135" duration="2965000" />
+      <workItem from="1552304462873" duration="9409000" />
+      <workItem from="1552382159486" duration="16254000" />
+      <workItem from="1552409883429" duration="4433000" />
+      <workItem from="1552418516930" duration="1190000" />
+      <workItem from="1552475116904" duration="5452000" />
+      <workItem from="1552482874631" duration="2647000" />
+      <workItem from="1552506619925" duration="8744000" />
+      <workItem from="1552556434957" duration="4258000" />
+      <workItem from="1552582676175" duration="365000" />
+      <workItem from="1552592259504" duration="2778000" />
+      <workItem from="1552654639562" duration="16791000" />
+      <workItem from="1552732827374" duration="14844000" />
+      <workItem from="1552748115928" duration="1883000" />
+      <workItem from="1552750156663" duration="6650000" />
+      <workItem from="1552818541035" duration="17224000" />
+      <workItem from="1552851865239" duration="9241000" />
+      <workItem from="1552915913241" duration="5436000" />
+      <workItem from="1552922192237" duration="17341000" />
+      <workItem from="1552987310852" duration="14716000" />
+      <workItem from="1553013477552" duration="16187000" />
+      <workItem from="1553073800686" duration="34103000" />
+      <workItem from="1553154251967" duration="11559000" />
+      <workItem from="1553170690461" duration="10563000" />
+      <workItem from="1553187470127" duration="8501000" />
+      <workItem from="1553199622333" duration="13222000" />
+      <workItem from="1553236859472" duration="905000" />
+      <workItem from="1553243529390" duration="9710000" />
+      <workItem from="1553426076707" duration="581000" />
+      <workItem from="1553430901182" duration="994000" />
+      <workItem from="1560198940859" duration="276000" />
+      <workItem from="1560203627421" duration="409000" />
+      <workItem from="1561199087512" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TariffsConfigControllerTest_doGet - 2019.03.22 at 00h 26m 55s.xml">
+      <configuration name="TariffsConfigControllerTest.doGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TariffsConfigControllerTest - 2019.03.22 at 00h 28m 36s.xml">
+      <configuration name="TariffsConfigControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TariffsConfigControllerTest_doPost4 - 2019.03.22 at 00h 29m 45s.xml">
+      <configuration name="TariffsConfigControllerTest.doPost4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TariffUpdateControllerTest - 2019.03.22 at 00h 31m 33s.xml">
+      <configuration name="TariffUpdateControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 00h 32m 47s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 00h 37m 31s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 00h 50m 14s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 08h 46m 09s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 08h 49m 52s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ua_nure_shevchenko_provider_in_provider-service - 2019.03.22 at 08h 50m 49s.xml">
+      <configuration name="ua.nure.shevchenko.provider in provider-service" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="441950000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32142857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.049099836" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.049099836" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.67906976" weight="0.32978722" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32978722" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.32093024" side_tool="true" visible="true" weight="0.022796353" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27659574" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.05728314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.92635024" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32978722" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32978722" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.022796353" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mass[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tariffDao.findTariffById(Integer.parseInt(&quot;1&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tariffDao.findTariffById(Integer.parseInt(id))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tariffDao</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/blocking-users-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/client-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/error-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-configuration-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="38" column="85" lean-forward="true" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-connection-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-update-page.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/registration-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="47" column="62" lean-forward="true" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/replenish-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlScoreDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/ReplenishControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/TariffConfirmControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="118" column="43" selection-start-line="118" selection-start-column="43" selection-end-line="118" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/TariffConfirmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-is-connected-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/resources/locale.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/DownloadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/style/admin-menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/style/statistic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/client-block-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/entity/Statistic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/tariff-list-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/constans/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/TariffUpdateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/statistic-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/constans/DBCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlTariffConnectionInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="198" column="66" lean-forward="true" selection-start-line="198" selection-start-column="66" selection-end-line="198" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/resources/locale_en.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/ChangeLocaleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-web/src/main/webapp/jsp/admin-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/StatisticController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/listener/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/ReplenishController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/constans/Fields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/utils/PasswordHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="63" column="61" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/utils/Validation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/utils/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/service/InfoTariffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="148" column="58" lean-forward="true" selection-start-line="148" selection-start-column="58" selection-end-line="148" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/ServiceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/entityDaoInterface/ScoreDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/LoginControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/test/java/ua/nure/shevchenko/provider/controller/DownloadControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/service/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/dao/mysqlDao/MySqlUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="164" column="15" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-service/src/main/java/ua/nure/shevchenko/provider/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>provider-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>provider-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: mysql:mysql-connector-java:5.1.45</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

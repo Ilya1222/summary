@@ -1,0 +1,65 @@
+img{
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+body{
+    background:#FFFFF0 ;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 0;
+    text-align: center;
+}
+th {
+    background: #5F9EA0;
+    color: white;
+    text-shadow: 0 1px 1px #2D2020;
+    padding: 10px 40px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+th:first-child, td:first-child {
+    text-align: center;
+}
+th:first-child {
+    border-top-left-radius: 10px;
+}
+th:last-child {
+    border-top-right-radius: 10px;
+    border-right: none;
+}
+td {
+    padding: 10px 50px;
+    background: #FFE4B5;
+}
+tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+tr td:last-child {
+    border-right: none;
+}
+
+.user-debt-list{
+    margin-top: 20px;
+}
+
+input[type="submit"] {
+
+    background: #f69a73;
+    border-bottom: 4px solid #d87d56;
+    color: white;
+}
+
+.update{
+    margin-top: 20px;
+}

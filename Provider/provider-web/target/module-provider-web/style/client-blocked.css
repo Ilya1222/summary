@@ -1,0 +1,53 @@
+.replenish input [ type="text"]{
+    display: block;
+    border: 2px solid #6A5748;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    font-family: 'Roboto', sans-serif;
+    width: 130px;
+    height: 70px;
+}
+
+.replenish  input[type="submit"] {
+
+    background: #A9A9A9;
+    border-bottom: 4px solid #FAF0E6;
+    color: white;
+}
+
+img{
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+a {
+    text-decoration: none;
+    width: 70px;
+    height: 10px;
+    outline: none;
+    display: inline-block;
+    color: white;
+    border-radius: 10px;
+    border: 1px ;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #696969;
+
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    transition: .5s;
+}
+a:hover {background-position: right center;}
+
+.back3 {
+    margin-left: 1100px;
+    margin-top: -370px;
+}
+body{
+    background: #FFA07A;
+}
+
+h3{
+    text-decoration: underline black;
+}
